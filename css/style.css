@@ -207,10 +207,10 @@ h1, h2, h3, h4, h5, h6, figure {
   width: 250px;
   margin: 0 auto;
   margin-bottom: 30px;
-  -webkit-border-radius: 50%;
-  -moz-border-radius: 50%;
-  -ms-border-radius: 50%;
-  border-radius: 50%;
+  -webkit-border-radius: 40%;
+  -moz-border-radius: 40%;
+  -ms-border-radius: 40%;
+  border-radius: 40%;
 }
 #fh5co-header .display-tc .fh5co-social-icons li a,
 .fh5co-cover .display-tc .fh5co-social-icons li a {
